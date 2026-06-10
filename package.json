@@ -1,0 +1,20 @@
+{
+  "name": "filipe-luz-studio-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Primeira presença digital oficial da FILIPE LUZ STUDIO.",
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m http.server 4173",
+    "check": "node --check src/main.js",
+    "test": "npm run check"
+  },
+  "keywords": [
+    "filipe-luz-studio",
+    "site-institucional",
+    "estudio-criativo",
+    "audiovisual"
+  ],
+  "author": "FILIPE LUZ STUDIO",
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,37 @@
+<svg width="980" height="360" viewBox="0 0 980 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">FILIPE LUZ STUDIO</title>
+  <desc id="desc">Logotipo em fundo preto com símbolo circular riscado por um feixe diagonal de luz e tipografia condensada em marfim.</desc>
+  <rect width="980" height="360" fill="#020202"/>
+  <g opacity=".94" stroke="#F3EBDD" stroke-linecap="round">
+    <path d="M222 99C185 109 158 137 151 176C143 219 168 259 210 271C250 282 292 262 309 224" stroke-width="3.2" opacity=".9"/>
+    <path d="M239 118C207 120 181 139 171 170C161 200 174 234 200 251" stroke-width="2.1" opacity=".72"/>
+    <path d="M286 143C303 167 307 200 293 228C278 259 246 276 212 270" stroke-width="2.4" opacity=".75"/>
+    <path d="M200 194C201 174 216 158 236 154" stroke-width="2.1" opacity=".72"/>
+    <path d="M178 218C162 190 171 153 197 132" stroke-width="1.4" opacity=".65"/>
+    <path d="M257 122C282 132 300 154 305 181" stroke-width="1.4" opacity=".52"/>
+  </g>
+  <g stroke="#F3EBDD" opacity=".62" stroke-linecap="round">
+    <path d="M132 151H171"/><path d="M117 171H160"/><path d="M128 195H181"/><path d="M140 232H190"/>
+    <path d="M279 128H337"/><path d="M300 156H349"/><path d="M297 196H344"/><path d="M277 244H330"/>
+    <path d="M151 144H122" opacity=".36"/><path d="M316 170H371" opacity=".36"/><path d="M319 216H361" opacity=".36"/>
+  </g>
+  <g filter="url(#softGlow)">
+    <path d="M355 38L110 322" stroke="#FFF9ED" stroke-width="3.8" stroke-linecap="round"/>
+    <path d="M354 38L110 322" stroke="#FFF9ED" stroke-width="1.1" stroke-linecap="round" opacity=".96"/>
+    <path d="M346 64L287 133" stroke="#FFF9ED" stroke-width="5.8" stroke-linecap="round" opacity=".88"/>
+  </g>
+  <g fill="#F4EEE4">
+    <text x="407" y="206" font-family="'Arial Narrow', 'Roboto Condensed', Arial, sans-serif" font-size="84" font-weight="300" letter-spacing="34">FILIPE LUZ</text>
+    <text x="508" y="279" font-family="'Arial Narrow', 'Roboto Condensed', Arial, sans-serif" font-size="38" font-weight="300" letter-spacing="28">STUDIO</text>
+  </g>
+  <g stroke="#F4EEE4" stroke-width="2" opacity=".9">
+    <path d="M407 263H488" stroke-dasharray="32 11"/>
+    <path d="M763 263H848" stroke-dasharray="32 11"/>
+  </g>
+  <defs>
+    <filter id="softGlow" x="90" y="18" width="285" height="324" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="1.4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+</svg>
